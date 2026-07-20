@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
