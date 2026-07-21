@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
