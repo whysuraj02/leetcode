@@ -68,8 +68,13 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/whysuraj02/leetcode/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/whysuraj02/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
