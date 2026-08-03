@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/whysuraj02/leetcode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/whysuraj02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/whysuraj02/leetcode/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
