@@ -24,6 +24,7 @@
 | [0344-reverse-string](https://github.com/whysuraj02/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/whysuraj02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/whysuraj02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -59,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/whysuraj02/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -69,6 +71,7 @@
 | [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -77,6 +80,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Matrix
@@ -118,4 +122,5 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whysuraj02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
