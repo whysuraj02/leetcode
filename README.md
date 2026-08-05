@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/whysuraj02/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/whysuraj02/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whysuraj02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/whysuraj02/leetcode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/whysuraj02/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/whysuraj02/leetcode/tree/master/0344-reverse-string) |
