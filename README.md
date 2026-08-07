@@ -65,6 +65,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -77,6 +78,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
