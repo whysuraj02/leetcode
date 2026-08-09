@@ -70,6 +70,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/whysuraj02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/whysuraj02/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/whysuraj02/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/whysuraj02/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
