@@ -61,6 +61,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/whysuraj02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/whysuraj02/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whysuraj02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/whysuraj02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/whysuraj02/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,8 +148,14 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/whysuraj02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
