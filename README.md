@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/whysuraj02/leetcode/tree/master/0125-valid-palindrome) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/whysuraj02/leetcode/tree/master/0050-powx-n) |
 ## Simulation
