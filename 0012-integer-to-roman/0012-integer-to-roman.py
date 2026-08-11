@@ -21,3 +21,12 @@ class Solution:
                 ans += value
                 num -= key
         return ans
+
+        #second process
+
+        # ans = ""
+        # for key,value in roman.items():
+        #     sym = num // key
+        #     ans += value * sym
+        #     num = num % key
+        # return ans
