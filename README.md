@@ -40,6 +40,7 @@
 | [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/whysuraj02/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
@@ -65,6 +66,7 @@
 | [0011-container-with-most-water](https://github.com/whysuraj02/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/whysuraj02/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whysuraj02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/whysuraj02/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +87,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -98,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
