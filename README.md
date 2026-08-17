@@ -44,6 +44,7 @@
 | [0067-add-binary](https://github.com/whysuraj02/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/whysuraj02/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/whysuraj02/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/whysuraj02/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/whysuraj02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -147,6 +148,7 @@
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/whysuraj02/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/whysuraj02/leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/whysuraj02/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Simulation
 |  |
 | ------- |
