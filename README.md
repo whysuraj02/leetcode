@@ -80,6 +80,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/whysuraj02/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/whysuraj02/leetcode/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +121,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/whysuraj02/leetcode/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
