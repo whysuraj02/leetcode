@@ -37,6 +37,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/whysuraj02/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/whysuraj02/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/whysuraj02/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/whysuraj02/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/whysuraj02/leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/whysuraj02/leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
