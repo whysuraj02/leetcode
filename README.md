@@ -34,6 +34,7 @@
 | [0392-is-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/whysuraj02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/whysuraj02/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -89,6 +90,7 @@
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/whysuraj02/leetcode/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -135,6 +137,7 @@
 | [0506-relative-ranks](https://github.com/whysuraj02/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
