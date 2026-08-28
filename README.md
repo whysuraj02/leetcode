@@ -81,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/whysuraj02/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/whysuraj02/leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/whysuraj02/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whysuraj02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/whysuraj02/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/whysuraj02/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
