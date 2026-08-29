@@ -93,6 +93,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/whysuraj02/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/whysuraj02/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,6 +124,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
