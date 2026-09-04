@@ -14,6 +14,7 @@
 | [1068-product-sales-analysis-i](https://github.com/whysuraj02/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/whysuraj02/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/whysuraj02/leetcode/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/whysuraj02/leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/whysuraj02/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/whysuraj02/leetcode/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/whysuraj02/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
