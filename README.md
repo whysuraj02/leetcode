@@ -71,6 +71,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/whysuraj02/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/whysuraj02/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -123,6 +124,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/whysuraj02/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2352-equal-row-and-column-pairs](https://github.com/whysuraj02/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -176,6 +178,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2733-neither-minimum-nor-maximum](https://github.com/whysuraj02/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/whysuraj02/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -255,6 +258,7 @@
 | [0053-maximum-subarray](https://github.com/whysuraj02/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -277,6 +281,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/whysuraj02/leetcode/tree/master/0506-relative-ranks) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -294,6 +299,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
