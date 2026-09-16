@@ -128,6 +128,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2352-equal-row-and-column-pairs](https://github.com/whysuraj02/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2404-most-frequent-even-element](https://github.com/whysuraj02/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2733-neither-minimum-nor-maximum](https://github.com/whysuraj02/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/whysuraj02/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -154,6 +155,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/whysuraj02/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2404-most-frequent-even-element](https://github.com/whysuraj02/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/whysuraj02/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -265,6 +267,7 @@
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/whysuraj02/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
