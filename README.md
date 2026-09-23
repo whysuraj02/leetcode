@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/whysuraj02/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
@@ -305,6 +306,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/whysuraj02/leetcode/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/whysuraj02/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Quickselect
 |  |
@@ -320,4 +322,8 @@
 | ------- |
 | [0202-happy-number](https://github.com/whysuraj02/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/whysuraj02/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/whysuraj02/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
