@@ -221,6 +221,7 @@
 | [0043-multiply-strings](https://github.com/whysuraj02/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/whysuraj02/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/whysuraj02/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/whysuraj02/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/whysuraj02/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/whysuraj02/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/whysuraj02/leetcode/tree/master/0202-happy-number) |
@@ -253,6 +254,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/whysuraj02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/whysuraj02/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/whysuraj02/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/whysuraj02/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whysuraj02/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/whysuraj02/leetcode/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/whysuraj02/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
