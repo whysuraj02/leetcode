@@ -1,5 +1,6 @@
 class Solution:
     def findTheDistanceValue(self, arr1: list[int], arr2: list[int], d: int) -> int:
+        arr1.sort()
         arr2.sort()
         i = 0
         j = 0
