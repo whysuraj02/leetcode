@@ -72,6 +72,7 @@
 | [0290-word-pattern](https://github.com/whysuraj02/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/whysuraj02/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/whysuraj02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/whysuraj02/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/whysuraj02/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -160,6 +161,7 @@
 | [0290-word-pattern](https://github.com/whysuraj02/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/whysuraj02/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/whysuraj02/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -292,6 +294,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/whysuraj02/leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/whysuraj02/leetcode/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2284-sender-with-largest-word-count](https://github.com/whysuraj02/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
