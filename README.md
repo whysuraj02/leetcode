@@ -363,4 +363,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/whysuraj02/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
