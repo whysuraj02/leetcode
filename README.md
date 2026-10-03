@@ -133,6 +133,7 @@
 | [0724-find-pivot-index](https://github.com/whysuraj02/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/whysuraj02/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -171,6 +172,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/whysuraj02/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/whysuraj02/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/whysuraj02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -206,6 +208,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/whysuraj02/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/whysuraj02/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -322,6 +325,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/whysuraj02/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/whysuraj02/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -335,11 +339,13 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/whysuraj02/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/whysuraj02/leetcode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/whysuraj02/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 ## Stack
 |  |
 | ------- |
