@@ -112,6 +112,7 @@
 | [0027-remove-element](https://github.com/whysuraj02/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/whysuraj02/leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/whysuraj02/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/whysuraj02/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/whysuraj02/leetcode/tree/master/0075-sort-colors) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/whysuraj02/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/whysuraj02/leetcode/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/whysuraj02/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/whysuraj02/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/whysuraj02/leetcode/tree/master/0202-happy-number) |
