@@ -24,6 +24,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/whysuraj02/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/whysuraj02/leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/whysuraj02/leetcode/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/whysuraj02/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1211-queries-quality-and-percentage](https://github.com/whysuraj02/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/whysuraj02/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/whysuraj02/leetcode/tree/master/1280-students-and-examinations) |
