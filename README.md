@@ -86,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/whysuraj02/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/whysuraj02/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/whysuraj02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/whysuraj02/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/whysuraj02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/whysuraj02/leetcode/tree/master/0383-ransom-note) |
@@ -189,6 +190,7 @@
 | [0242-valid-anagram](https://github.com/whysuraj02/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/whysuraj02/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/whysuraj02/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/whysuraj02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/whysuraj02/leetcode/tree/master/0383-ransom-note) |
@@ -343,6 +345,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/whysuraj02/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/whysuraj02/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/whysuraj02/leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/whysuraj02/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/whysuraj02/leetcode/tree/master/0451-sort-characters-by-frequency) |
