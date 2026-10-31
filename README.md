@@ -153,6 +153,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/whysuraj02/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/whysuraj02/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/whysuraj02/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/whysuraj02/leetcode/tree/master/0724-find-pivot-index) |
@@ -204,6 +205,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/whysuraj02/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/whysuraj02/leetcode/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
