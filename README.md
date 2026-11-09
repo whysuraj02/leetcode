@@ -175,6 +175,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/whysuraj02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/whysuraj02/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/whysuraj02/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/whysuraj02/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/whysuraj02/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -265,6 +266,7 @@
 | [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/whysuraj02/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/whysuraj02/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/whysuraj02/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -291,6 +293,7 @@
 | [0011-container-with-most-water](https://github.com/whysuraj02/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/whysuraj02/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/whysuraj02/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/whysuraj02/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
@@ -315,6 +318,7 @@
 | [0633-sum-of-square-numbers](https://github.com/whysuraj02/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1399-count-largest-group](https://github.com/whysuraj02/leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/whysuraj02/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/whysuraj02/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/whysuraj02/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -461,4 +465,8 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/whysuraj02/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/whysuraj02/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/whysuraj02/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
