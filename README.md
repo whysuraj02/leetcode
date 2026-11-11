@@ -69,6 +69,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/whysuraj02/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/whysuraj02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/whysuraj02/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -160,6 +161,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/whysuraj02/leetcode/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/whysuraj02/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/whysuraj02/leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -218,6 +220,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/whysuraj02/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/whysuraj02/leetcode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/whysuraj02/leetcode/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
@@ -261,6 +264,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/whysuraj02/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/whysuraj02/leetcode/tree/master/0506-relative-ranks) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/whysuraj02/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -360,6 +364,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/whysuraj02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/whysuraj02/leetcode/tree/master/0367-valid-perfect-square) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/whysuraj02/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/whysuraj02/leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
