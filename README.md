@@ -186,6 +186,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/whysuraj02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/whysuraj02/leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/whysuraj02/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/whysuraj02/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -236,6 +237,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/whysuraj02/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/whysuraj02/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/whysuraj02/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/whysuraj02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/whysuraj02/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/whysuraj02/leetcode/tree/master/2284-sender-with-largest-word-count) |
@@ -395,6 +397,7 @@
 | [1399-count-largest-group](https://github.com/whysuraj02/leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/whysuraj02/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/whysuraj02/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/whysuraj02/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2284-sender-with-largest-word-count](https://github.com/whysuraj02/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2351-first-letter-to-appear-twice](https://github.com/whysuraj02/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/whysuraj02/leetcode/tree/master/2404-most-frequent-even-element) |
