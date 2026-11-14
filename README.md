@@ -47,6 +47,7 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/whysuraj02/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/whysuraj02/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/whysuraj02/leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1965-employees-with-missing-information](https://github.com/whysuraj02/leetcode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/whysuraj02/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/whysuraj02/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/whysuraj02/leetcode/tree/master/3220-odd-and-even-transactions) |
