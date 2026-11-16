@@ -171,6 +171,7 @@
 | [0697-degree-of-an-array](https://github.com/whysuraj02/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/whysuraj02/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/whysuraj02/leetcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/whysuraj02/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
 | [0881-boats-to-save-people](https://github.com/whysuraj02/leetcode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -273,6 +274,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/whysuraj02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/whysuraj02/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/whysuraj02/leetcode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/whysuraj02/leetcode/tree/master/0905-sort-array-by-parity) |
