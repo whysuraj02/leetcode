@@ -11,8 +11,7 @@ class Solution:
         for num  in nums:
             if num+1 in freq:
                 add = freq[num] + freq[num+1]
-                if add > tot:
-                    tot = add
+                tot = max(tot,add)
         
         return tot
 
