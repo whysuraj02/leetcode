@@ -112,6 +112,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/whysuraj02/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/whysuraj02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/whysuraj02/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/whysuraj02/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -232,6 +233,7 @@
 | [0575-distribute-candies](https://github.com/whysuraj02/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/whysuraj02/leetcode/tree/master/0697-degree-of-an-array) |
+| [0771-jewels-and-stones](https://github.com/whysuraj02/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/whysuraj02/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
