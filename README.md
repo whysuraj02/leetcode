@@ -179,6 +179,7 @@
 | [0881-boats-to-save-people](https://github.com/whysuraj02/leetcode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/whysuraj02/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/whysuraj02/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/whysuraj02/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
@@ -284,6 +285,7 @@
 | [0881-boats-to-save-people](https://github.com/whysuraj02/leetcode/tree/master/0881-boats-to-save-people) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/whysuraj02/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/whysuraj02/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/whysuraj02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/whysuraj02/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/whysuraj02/leetcode/tree/master/1122-relative-sort-array) |
@@ -317,6 +319,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/whysuraj02/leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/whysuraj02/leetcode/tree/master/0881-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/whysuraj02/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/whysuraj02/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/whysuraj02/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/whysuraj02/leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -407,6 +410,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/whysuraj02/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/whysuraj02/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/whysuraj02/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/whysuraj02/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/whysuraj02/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/whysuraj02/leetcode/tree/master/1399-count-largest-group) |
