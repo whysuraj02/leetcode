@@ -116,6 +116,7 @@
 | [0541-reverse-string-ii](https://github.com/whysuraj02/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/whysuraj02/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/whysuraj02/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/whysuraj02/leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/whysuraj02/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/whysuraj02/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/whysuraj02/leetcode/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/whysuraj02/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/whysuraj02/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/whysuraj02/leetcode/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
